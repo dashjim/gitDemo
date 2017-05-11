@@ -1,2 +1,3 @@
-function 1 is very cool.
-I disagree.
+1, function 1 is very cool.
+2, I agree too.
+3, I disagree.
