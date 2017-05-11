@@ -1,2 +1,6 @@
+
 function 1 is very cool.
+All changed.
 I disagree.
+
+bug fix for f-3
